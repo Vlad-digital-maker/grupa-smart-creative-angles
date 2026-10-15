@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "record_count",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "name": "unique_library_ids",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "name": "media_downloads",
+      "expected": 7,
+      "actual": 7,
+      "pass": true
+    },
+    {
+      "name": "object_isolation",
+      "detail": "zig-zag=4, suburbia=3, DUO/SOLO=0 without ad-level proof",
+      "pass": true
+    },
+    {
+      "name": "no_effectiveness_scoring",
+      "pass": true
+    },
+    {
+      "name": "owned_snapshots",
+      "expected": 4,
+      "actual": 4,
+      "pass": true
+    }
+  ],
+  "media": [
+    {
+      "library_id": "3416193908565007",
+      "media_http": 200,
+      "media_bytes": 1010482,
+      "sha256": "d3e23bb30f10dd0f3da18e5973dd7c53b427aae59142b3a91c5cac0a6948e30f",
+      "pass": true
+    },
+    {
+      "library_id": "2464168407743610",
+      "media_http": 200,
+      "media_bytes": 1330703,
+      "sha256": "7d47a51ec176a8e0c07eaa9cdfc1f0f2c49f91ccf869c3221050b4c103941533",
+      "pass": true
+    },
+    {
+      "library_id": "978839181930204",
+      "media_http": 200,
+      "media_bytes": 2530826,
+      "sha256": "4c632e4aff6daefedaa2c90a6cbbd46f1b0fd44ac71e2ce54af6ba670915d9b8",
+      "pass": true
+    },
+    {
+      "library_id": "2346595599444104",
+      "media_http": 200,
+      "media_bytes": 709880,
+      "sha256": "4567e01f52f93f190ace513fb29701968d896fe74800d7ae29a1b609a75d4984",
+      "pass": true
+    },
+    {
+      "library_id": "1423296463326757",
+      "media_http": 200,
+      "media_bytes": 1005783,
+      "sha256": "be9af86accd780f4e233155660da6fa488a80b74b1c1c9262ae1c3d0c2ed71a2",
+      "pass": true
+    },
+    {
+      "library_id": "1348260703784502",
+      "media_http": 200,
+      "media_bytes": 699646,
+      "sha256": "b94cca8bfcf22f99e4b8ccc816f7c2dd521e53e300b8187b8967ff4ad500935e",
+      "pass": true
+    },
+    {
+      "library_id": "2208824383349390",
+      "media_http": 200,
+      "media_bytes": 1171583,
+      "sha256": "69bee6b99159360ab3275b1da80bb344332266ba86cba8e7c5027bc5504b0d16",
+      "pass": true
+    }
+  ],
+  "dataset_sha256": "f82886c894e4efbe360f294a011b0f2d1b79c3fe4216f500755488b10c110c9d",
+  "matrix_sha256": "c5c392f5db8db9e5fd2d2ae3ce1a2626de32ba549b4b228a9c4c2e17685170ef"
+}

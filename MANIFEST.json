@@ -1,0 +1,297 @@
+{
+  "project_id": "grupa-smart",
+  "artifact": "grupa_smart_creative_angles_v1",
+  "status": "production_candidate",
+  "observed_at": "2026-10-15",
+  "competitor_records": 32,
+  "own_records": 7,
+  "monitored_competitors": 9,
+  "media_assets": 39,
+  "source_hashes": {
+    "creatives/competitor-paid-pilot-v1.json": "9221bdfa1a37bb31f0e44920fd72cdc0dbcda7ada5de6153410305b53e00ffd3",
+    "creatives/competitor-paid-riel-delta-v1.json": "9afc6acad2480142c45a53fa61d71d41b1c85e7acb20791b9db04a5b35ba15f0",
+    "creatives/competitor-greenville-delta-v1.json": "523d0b0d6a60dd8081a35a429e715b38061cc6cc55a8ca3057e5c78a53634ca9",
+    "creatives/competitor-alliance-novobud-delta-v1.json": "40c881150010410d20164dfaf7e1e5bfcb9e09d74c7661bf351bdf5db79a6bdd",
+    "creatives/competitor-amber-park-delta-v1.json": "c765ea83b9a132e837271b0d0515cf28785be6b07837d674657484173cdc103d",
+    "creatives/competitor-fine-city-delta-v1.json": "944f972959c7bed09f5d2e723149da77d32b32ef83612828e100099817677bb7",
+    "creatives/competitor-avalon-delta-v1.json": "623a0374b7774af254c3de0c5682ada0ac2147f147ed8f16cb57168a132e2521",
+    "creatives/grupa-smart-own-creatives-v1.json": "f82886c894e4efbe360f294a011b0f2d1b79c3fe4216f500755488b10c110c9d",
+    "reports/competitive-comparison-and-open-angles-v1.json": "78f0ebc4f39d10546c22f214438b66e1aabfe8d693a1ff321b74ca2aa49b7611"
+  },
+  "media": [
+    {
+      "library_id": "956367790478541",
+      "scope": "competitor",
+      "path": "assets/competitors/intergal-bud/956367790478541.mp4",
+      "sha256": "ed6f40d9a57b65f135a46923b45f8f4f359c047a1ba5ffa4869a3841a9dbc77c",
+      "bytes": 1696312
+    },
+    {
+      "library_id": "1030172436232291",
+      "scope": "competitor",
+      "path": "assets/competitors/intergal-bud/1030172436232291.jpg",
+      "sha256": "aba68fa1dc68175d922baa4c023a6c0dcf353863e961b17f2608a17ab7f28ecd",
+      "bytes": 38360
+    },
+    {
+      "library_id": "956453883437962",
+      "scope": "competitor",
+      "path": "assets/competitors/intergal-bud/956453883437962.jpg",
+      "sha256": "6ec890353822ee60504bd4289a7efea4de69ab74a7c68acfb1dc2880775eec9c",
+      "bytes": 34283
+    },
+    {
+      "library_id": "1071556895612335",
+      "scope": "competitor",
+      "path": "assets/competitors/intergal-bud/1071556895612335.jpg",
+      "sha256": "8d792d24893d6c38ffa1558f298b2740c66a8d677b404ac723de604fbd07d6c4",
+      "bytes": 29186
+    },
+    {
+      "library_id": "28220809804221496",
+      "scope": "competitor",
+      "path": "assets/competitors/blago/28220809804221496.jpg",
+      "sha256": "1b919ef2a4868b6293c68b546189a1859d02de748456dab7b3df2acba9c4883c",
+      "bytes": 79200
+    },
+    {
+      "library_id": "1487011649574409",
+      "scope": "competitor",
+      "path": "assets/competitors/blago/1487011649574409.jpg",
+      "sha256": "831c775f4d7d69daedd5b9e545d63ea9148fcdabe7e8960406c388cf1b5358b5",
+      "bytes": 56361
+    },
+    {
+      "library_id": "2117282302163293",
+      "scope": "competitor",
+      "path": "assets/competitors/blago/2117282302163293.jpg",
+      "sha256": "4d5e1a87d62b5f647e6b2112cc3939916a7156de6920cf86b813f82515e84e39",
+      "bytes": 18708
+    },
+    {
+      "library_id": "1046156934342808",
+      "scope": "competitor",
+      "path": "assets/competitors/blago/1046156934342808.mp4",
+      "sha256": "36b1eeb48f86c6d0a1243838fa410f5d85aa44f970f9e424492a033eaa5fe2a4",
+      "bytes": 902476
+    },
+    {
+      "library_id": "1665057395003646",
+      "scope": "competitor",
+      "path": "assets/competitors/stograd/1665057395003646.jpg",
+      "sha256": "37a7a24a719a133c56822da67e7457ed22e8e022e414e61fc90b976d91451bfc",
+      "bytes": 54770
+    },
+    {
+      "library_id": "2322068711862338",
+      "scope": "competitor",
+      "path": "assets/competitors/stograd/2322068711862338.jpg",
+      "sha256": "23885d4174a57a77036dab6ed3fbefc7bee670d5b07e74e847b194d286334288",
+      "bytes": 50181
+    },
+    {
+      "library_id": "1120827710471074",
+      "scope": "competitor",
+      "path": "assets/competitors/stograd/1120827710471074.jpg",
+      "sha256": "86467c3ea5efb8587bee3bb217fdf7ba5efaecc11099871e750a3bdada694c6b",
+      "bytes": 62147
+    },
+    {
+      "library_id": "28524022100550968",
+      "scope": "competitor",
+      "path": "assets/competitors/stograd/28524022100550968.jpg",
+      "sha256": "e86da0b6f31b70d49d73c5cea18be06e73fa3d79924b542551a06a47ff154b13",
+      "bytes": 69380
+    },
+    {
+      "library_id": "4270586776418190",
+      "scope": "competitor",
+      "path": "assets/competitors/riel/4270586776418190.jpg",
+      "sha256": "01d280432496e503b4f79362bc963f2c30e758d74101761996d7f7eecb4ef966",
+      "bytes": 67988
+    },
+    {
+      "library_id": "1675647687400602",
+      "scope": "competitor",
+      "path": "assets/competitors/riel/1675647687400602.jpg",
+      "sha256": "d147830f20c656fa045504ad1c7702af4817eec2fa29589c0a944b913f773955",
+      "bytes": 62420
+    },
+    {
+      "library_id": "1095550289680686",
+      "scope": "competitor",
+      "path": "assets/competitors/riel/1095550289680686.jpg",
+      "sha256": "925c61930848455a5bc254e8622d5d6b80064feb2aa0223f13146febc91375c4",
+      "bytes": 46857
+    },
+    {
+      "library_id": "2023727558344746",
+      "scope": "competitor",
+      "path": "assets/competitors/riel/2023727558344746.jpg",
+      "sha256": "d147830f20c656fa045504ad1c7702af4817eec2fa29589c0a944b913f773955",
+      "bytes": 62420
+    },
+    {
+      "library_id": "1102744885562753",
+      "scope": "competitor",
+      "path": "assets/competitors/greenville/1102744885562753.jpg",
+      "sha256": "9d1a1075f1f3f3fdbd3abaeb9a9626fc9afd1f7893f93f7cfd06b3255e03094c",
+      "bytes": 38961
+    },
+    {
+      "library_id": "1734449725350506",
+      "scope": "competitor",
+      "path": "assets/competitors/greenville/1734449725350506.mp4",
+      "sha256": "f4d0837bd882251210909558736b761b09095cb29221bc88edb02fd038f22149",
+      "bytes": 2188009
+    },
+    {
+      "library_id": "1437332744906905",
+      "scope": "competitor",
+      "path": "assets/competitors/greenville/1437332744906905.mp4",
+      "sha256": "67e55129120dfa767678816aefcfd6876e16122f8612ed645feddde6effe93e0",
+      "bytes": 460904
+    },
+    {
+      "library_id": "1770039357561306",
+      "scope": "competitor",
+      "path": "assets/competitors/greenville/1770039357561306.mp4",
+      "sha256": "a218f3b3764240747b19f81b9dbad98140bc9be329ce3a0134b3a30b2c2f049a",
+      "bytes": 472096
+    },
+    {
+      "library_id": "2071164076762094",
+      "scope": "competitor",
+      "path": "assets/competitors/alliance-novobud/2071164076762094-1.jpg",
+      "sha256": "6aa485045071a120ad699f05efe3409110bc4dd99f1235884d227d74de54457e",
+      "bytes": 32175
+    },
+    {
+      "library_id": "463200240141874",
+      "scope": "competitor",
+      "path": "assets/competitors/alliance-novobud/463200240141874-1.jpg",
+      "sha256": "c81619a0596e240dde6b3d0afec0770e3ae35b6588ad3d934881dba5d86b166a",
+      "bytes": 51820
+    },
+    {
+      "library_id": "1204855257635562",
+      "scope": "competitor",
+      "path": "assets/competitors/alliance-novobud/1204855257635562-1.jpg",
+      "sha256": "64ee686068f3151e0f54af3da651bee1a405e1e552425c9f038fb1afb6177988",
+      "bytes": 30307
+    },
+    {
+      "library_id": "1492332265729460",
+      "scope": "competitor",
+      "path": "assets/competitors/alliance-novobud/1492332265729460-1.jpg",
+      "sha256": "5f783db2dcefe37530a44ffc84128d2dce3ef9e0fcfc9752d1fb8c4a1aca763a",
+      "bytes": 61484
+    },
+    {
+      "library_id": "973047732361030",
+      "scope": "competitor",
+      "path": "assets/competitors/amber-park/973047732361030-1.mp4",
+      "sha256": "4db9785b05534339b15249f3f877a26dccb50266c60f1b7bef25294b15513103",
+      "bytes": 1470998
+    },
+    {
+      "library_id": "1389446053028680",
+      "scope": "competitor",
+      "path": "assets/competitors/amber-park/1389446053028680-1.jpg",
+      "sha256": "0b3fb3fa76b7fc1b1b575a8b0d2123f6828f2145a95e02779ea8678e4c37a906",
+      "bytes": 74159
+    },
+    {
+      "library_id": "1556765719564528",
+      "scope": "competitor",
+      "path": "assets/competitors/amber-park/1556765719564528-1.mp4",
+      "sha256": "8386de45c746ef7733ca7690a0ccbcb58c7be2910691399fd341d9020ba71da8",
+      "bytes": 1953827
+    },
+    {
+      "library_id": "1731542254815914",
+      "scope": "competitor",
+      "path": "assets/competitors/amber-park/1731542254815914-1.jpg",
+      "sha256": "78db6ab1c4e8d1c17468813b258e41da8d96a43d202ed0f3fb4781e1dd2d20d9",
+      "bytes": 75405
+    },
+    {
+      "library_id": "1060979163425826",
+      "scope": "competitor",
+      "path": "assets/competitors/avalon/1060979163425826-1.mp4",
+      "sha256": "94ed5286fa9c3f10c769f97802300377cda9155d90d844d3be8021d8df347c6a",
+      "bytes": 3776454
+    },
+    {
+      "library_id": "4153426228207939",
+      "scope": "competitor",
+      "path": "assets/competitors/avalon/4153426228207939-1.mp4",
+      "sha256": "57494278155eb4005689c63b41a9c6fd925936a0006051a81a181a6199cb534a",
+      "bytes": 911167
+    },
+    {
+      "library_id": "1048835627892194",
+      "scope": "competitor",
+      "path": "assets/competitors/avalon/1048835627892194-1.mp4",
+      "sha256": "e35210579e48566d8c94a6d90b20ecfa3b4470cc9c6907a47c2ae84c40379851",
+      "bytes": 1069486
+    },
+    {
+      "library_id": "1486812686546749",
+      "scope": "competitor",
+      "path": "assets/competitors/avalon/1486812686546749-1.mp4",
+      "sha256": "0e80f478a75520075eebdf054de86cf72a9a8d6e9c1468c6a8701912017def7a",
+      "bytes": 346578
+    },
+    {
+      "library_id": "3416193908565007",
+      "scope": "own",
+      "path": "assets/own/zig-zag/3416193908565007-1.mp4",
+      "sha256": "d3e23bb30f10dd0f3da18e5973dd7c53b427aae59142b3a91c5cac0a6948e30f",
+      "bytes": 1010482
+    },
+    {
+      "library_id": "2464168407743610",
+      "scope": "own",
+      "path": "assets/own/zig-zag/2464168407743610-1.mp4",
+      "sha256": "7d47a51ec176a8e0c07eaa9cdfc1f0f2c49f91ccf869c3221050b4c103941533",
+      "bytes": 1330703
+    },
+    {
+      "library_id": "978839181930204",
+      "scope": "own",
+      "path": "assets/own/zig-zag/978839181930204-1.mp4",
+      "sha256": "4c632e4aff6daefedaa2c90a6cbbd46f1b0fd44ac71e2ce54af6ba670915d9b8",
+      "bytes": 2530826
+    },
+    {
+      "library_id": "2346595599444104",
+      "scope": "own",
+      "path": "assets/own/zig-zag/2346595599444104-1.mp4",
+      "sha256": "4567e01f52f93f190ace513fb29701968d896fe74800d7ae29a1b609a75d4984",
+      "bytes": 709880
+    },
+    {
+      "library_id": "1423296463326757",
+      "scope": "own",
+      "path": "assets/own/suburbia/1423296463326757-1.mp4",
+      "sha256": "be9af86accd780f4e233155660da6fa488a80b74b1c1c9262ae1c3d0c2ed71a2",
+      "bytes": 1005783
+    },
+    {
+      "library_id": "1348260703784502",
+      "scope": "own",
+      "path": "assets/own/suburbia/1348260703784502-1.mp4",
+      "sha256": "b94cca8bfcf22f99e4b8ccc816f7c2dd521e53e300b8187b8967ff4ad500935e",
+      "bytes": 699646
+    },
+    {
+      "library_id": "2208824383349390",
+      "scope": "own",
+      "path": "assets/own/suburbia/2208824383349390-1.mp4",
+      "sha256": "69bee6b99159360ab3275b1da80bb344332266ba86cba8e7c5027bc5504b0d16",
+      "bytes": 1171583
+    }
+  ],
+  "index_sha256": "1cc7daa53a3448ef4f223c18056913a7fc52bc1f687aadaef30b5c3a9c506d79"
+}

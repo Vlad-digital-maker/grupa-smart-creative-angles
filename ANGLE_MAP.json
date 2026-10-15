@@ -1,0 +1,371 @@
+{
+  "schema_version": "1.0",
+  "project_id": "grupa-smart",
+  "analysis": "competitive_comparison_and_open_angle_map",
+  "observed_at": "2026-10-15",
+  "status": "PASS",
+  "samples": {
+    "competitor_paid_records": 32,
+    "competitor_paid_brands": 8,
+    "core_paid_records": 24,
+    "local_paid_records": 8,
+    "own_paid_records": 7,
+    "own_objects": {
+      "zig-zag": 4,
+      "suburbia": 3
+    },
+    "monitored_no_ads": [
+      "fine-city"
+    ]
+  },
+  "truth_boundary": [
+    "Frequency reflects the observed samples, not total market spend or performance.",
+    "No performance metrics are available; opportunity labels are strategic hypotheses, not effectiveness claims.",
+    "NO_ADS_OBSERVED for Fine City is page-scoped and time-scoped, not proof of global inactivity.",
+    "DUO and SOLO remain separate product variants and receive no base Suburbia paid records without ad-level proof."
+  ],
+  "taxonomy": [
+    {
+      "id": "financial_access",
+      "label": "Ціна, платіж і фінансові умови"
+    },
+    {
+      "id": "ready_now",
+      "label": "Готовність і життя вже зараз"
+    },
+    {
+      "id": "investment_rental",
+      "label": "Інвестиція та оренда"
+    },
+    {
+      "id": "family_environment",
+      "label": "Сім’я, діти й спільнота"
+    },
+    {
+      "id": "green_private_environment",
+      "label": "Зелень, приватність і двір"
+    },
+    {
+      "id": "location_view",
+      "label": "Локація, час і види"
+    },
+    {
+      "id": "specific_product",
+      "label": "Конкретна квартира та планування"
+    },
+    {
+      "id": "trust_progress",
+      "label": "Довіра, будівництво й доказ реалізації"
+    },
+    {
+      "id": "scarcity_launch",
+      "label": "Старт, дефіцит і терміновість"
+    },
+    {
+      "id": "human_voice",
+      "label": "Людський голос: команда або мешканці"
+    },
+    {
+      "id": "lifestyle_scenario",
+      "label": "Сценарій повсякденного життя"
+    },
+    {
+      "id": "special_audience_program",
+      "label": "Державні й спеціальні програми"
+    }
+  ],
+  "market_frequency": [
+    {
+      "angle": "financial_access",
+      "label": "Ціна, платіж і фінансові умови",
+      "all_competitors": 14,
+      "core": 10,
+      "local": 4,
+      "zig_zag": 4,
+      "suburbia": 2
+    },
+    {
+      "angle": "ready_now",
+      "label": "Готовність і життя вже зараз",
+      "all_competitors": 11,
+      "core": 7,
+      "local": 4,
+      "zig_zag": 3,
+      "suburbia": 0
+    },
+    {
+      "angle": "investment_rental",
+      "label": "Інвестиція та оренда",
+      "all_competitors": 2,
+      "core": 1,
+      "local": 1,
+      "zig_zag": 1,
+      "suburbia": 2
+    },
+    {
+      "angle": "family_environment",
+      "label": "Сім’я, діти й спільнота",
+      "all_competitors": 9,
+      "core": 8,
+      "local": 1,
+      "zig_zag": 0,
+      "suburbia": 3
+    },
+    {
+      "angle": "green_private_environment",
+      "label": "Зелень, приватність і двір",
+      "all_competitors": 7,
+      "core": 3,
+      "local": 4,
+      "zig_zag": 0,
+      "suburbia": 3
+    },
+    {
+      "angle": "location_view",
+      "label": "Локація, час і види",
+      "all_competitors": 6,
+      "core": 5,
+      "local": 1,
+      "zig_zag": 1,
+      "suburbia": 3
+    },
+    {
+      "angle": "specific_product",
+      "label": "Конкретна квартира та планування",
+      "all_competitors": 9,
+      "core": 6,
+      "local": 3,
+      "zig_zag": 0,
+      "suburbia": 0
+    },
+    {
+      "angle": "trust_progress",
+      "label": "Довіра, будівництво й доказ реалізації",
+      "all_competitors": 5,
+      "core": 5,
+      "local": 0,
+      "zig_zag": 0,
+      "suburbia": 0
+    },
+    {
+      "angle": "scarcity_launch",
+      "label": "Старт, дефіцит і терміновість",
+      "all_competitors": 8,
+      "core": 5,
+      "local": 3,
+      "zig_zag": 0,
+      "suburbia": 0
+    },
+    {
+      "angle": "human_voice",
+      "label": "Людський голос: команда або мешканці",
+      "all_competitors": 3,
+      "core": 2,
+      "local": 1,
+      "zig_zag": 0,
+      "suburbia": 0
+    },
+    {
+      "angle": "lifestyle_scenario",
+      "label": "Сценарій повсякденного життя",
+      "all_competitors": 4,
+      "core": 3,
+      "local": 1,
+      "zig_zag": 0,
+      "suburbia": 1
+    },
+    {
+      "angle": "special_audience_program",
+      "label": "Державні й спеціальні програми",
+      "all_competitors": 5,
+      "core": 3,
+      "local": 2,
+      "zig_zag": 0,
+      "suburbia": 0
+    }
+  ],
+  "own_position": {
+    "zig-zag": {
+      "occupied": [
+        "financial_access",
+        "ready_now",
+        "investment_rental",
+        "location_view"
+      ],
+      "dominant": [
+        "financial_access",
+        "ready_now",
+        "investment_rental"
+      ],
+      "risk": "Four observed creatives cluster around readiness, amenities, price/installments and investment; distinct product storytelling is compressed into offer-led copy."
+    },
+    "suburbia": {
+      "occupied": [
+        "family_environment",
+        "financial_access",
+        "green_private_environment",
+        "investment_rental",
+        "location_view",
+        "lifestyle_scenario"
+      ],
+      "dominant": [
+        "financial_access",
+        "family_environment",
+        "green_private_environment"
+      ],
+      "risk": "Two of three observed records repeat the same financing-led copy; base project language obscures DUO/SOLO product differentiation."
+    }
+  },
+  "opportunities": {
+    "zig-zag": [
+      {
+        "priority": 1,
+        "angle": "Урбан Галерея в реальному житті",
+        "status": "underdeveloped_unique_product",
+        "hypothesis": "Показати один конкретний сценарій використання простору за роллю: працюю, зустрічаю друзів, відпочиваю. Зараз paid-реклама переважно перелічує amenities, але не драматургує їх.",
+        "basis": [
+          "owned:zig-zag lines 117-123",
+          "own paid records 3416193908565007, 2464168407743610"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 2,
+        "angle": "Конкретна квартира як готовий вибір",
+        "status": "open_in_own_sample",
+        "hypothesis": "Серія з площею, планом, поверхом, ціною, готовністю та маршрутом огляду. У конкурентів specific_product трапляється часто, у paid-вибірці Зиґ Заґ — нуль окремих unit-led records.",
+        "basis": [
+          "competitor macro specific_product",
+          "own paid sample 4 records"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 3,
+        "angle": "Люди, які вже живуть тут",
+        "status": "open_in_own_sample_low_market_saturation",
+        "hypothesis": "Короткі resident stories або manager-led walkthrough: не абстрактне «люди вже живуть», а одна людина й одна зміна в житті. Людський голос у конкурентній вибірці малонасичений.",
+        "basis": [
+          "own claim: people already live",
+          "competitor macro human_voice"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "priority": 4,
+        "angle": "Центр Рівного як економія часу",
+        "status": "underused_in_own_sample",
+        "hypothesis": "Перекласти «майже центр» у конкретні маршрути й хвилини: робота, школа, спорт, дозвілля. Це відділяє міський продукт від загальних lifestyle-обіцянок.",
+        "basis": [
+          "owned:zig-zag line 122",
+          "own paid record 978839181930204"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "priority": 5,
+        "angle": "Прогрес і технічний доказ готовності",
+        "status": "open_in_own_sample_low_market_saturation",
+        "hypothesis": "Регулярні короткі proof-ролики з будівельних новин, інженерії та готових зон. Не рейтинг якості, а прозорий доказ.",
+        "basis": [
+          "owned:zig-zag lines 126-133",
+          "competitor macro trust_progress"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "priority": 6,
+        "angle": "Спеціальні програми / вузькі аудиторії",
+        "status": "conditional_opportunity",
+        "hypothesis": "Тестувати тільки після підтвердження фактичної доступності єОселі, програм для військових або інших сегментів. Без підтвердження цей angle не запускати.",
+        "basis": [
+          "competitor macro special_audience_program"
+        ],
+        "confidence": "conditional"
+      }
+    ],
+    "suburbia": [
+      {
+        "priority": 1,
+        "angle": "Субурбія DUO як окремий продукт",
+        "status": "free_in_observed_paid_sample",
+        "hypothesis": "Окрема paid-лінія: патіо, retreat-зони, авторське планування, pet-friendly спільнота. У base advertiser sample немає ad-level доказу DUO.",
+        "basis": [
+          "owned:suburbia-duo lines 10-46",
+          "paid sample: 3 base Suburbia records"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 2,
+        "angle": "Субурбія SOLO як окремий продукт",
+        "status": "free_in_observed_paid_sample",
+        "hypothesis": "Окрема paid-лінія про тишу, приватність і «місто поруч, але не навколо» — без змішування з base Субурбією.",
+        "basis": [
+          "owned:suburbia-solo lines 10-36",
+          "paid sample: 3 base Suburbia records"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 3,
+        "angle": "Pet-friendly передміська спільнота",
+        "status": "free_in_observed_competitor_and_own_paid_samples",
+        "hypothesis": "Розкрити конкретні побутові сцени з тваринами й середовищем, якщо правила комплексу це підтверджують. У дослідженій paid-вибірці конкурентів окремого pet-friendly angle не знайдено.",
+        "basis": [
+          "owned:suburbia-duo line 45",
+          "32 competitor paid records"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "priority": 4,
+        "angle": "Конкретний маршрут до щоденної інфраструктури",
+        "status": "underused_in_own_sample",
+        "hypothesis": "Замінити загальне «поруч школа/магазин» на 7/10/15 хвилин із картою одного реального дня сім’ї.",
+        "basis": [
+          "owned:suburbia-duo lines 26-35",
+          "owned:suburbia-solo lines 23-32",
+          "paid Suburbia generic proximity copy"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 5,
+        "angle": "Конкретна квартира / патіо / планування",
+        "status": "open_in_own_sample",
+        "hypothesis": "Каруселі й walkthrough конкретних лотів замість повтору загального маніфесту. Specific-product angle присутній у конкурентів, але відсутній у трьох paid records Субурбії.",
+        "basis": [
+          "owned:suburbia-duo lines 18,40-43",
+          "competitor macro specific_product"
+        ],
+        "confidence": "high"
+      },
+      {
+        "priority": 6,
+        "angle": "Прогрес і факт реалізації",
+        "status": "open_in_own_sample_low_market_saturation",
+        "hypothesis": "Будівельний прогрес, готові зони та дата здачі окремими proof-creatives. Причинність не заявляти; це тест довіри.",
+        "basis": [
+          "owned:suburbia-duo lines 21-24,59-60",
+          "competitor macro trust_progress"
+        ],
+        "confidence": "medium"
+      }
+    ]
+  },
+  "avoid_or_deprioritize": [
+    {
+      "angle": "Ще один загальний ролик «усе поруч / зелено / для сім’ї»",
+      "reason": "Market and own samples are already dense in family, greenery and infrastructure claims; without a concrete proof unit this adds little distinction."
+    },
+    {
+      "angle": "Ще одна ціна/розтермінування без нового механізму",
+      "reason": "Financial access is the most saturated macro-angle in the observed competitor sample and already dominant in own ads."
+    },
+    {
+      "angle": "Змішувати DUO, SOLO і base Субурбію в один creative",
+      "reason": "This erases product differences and violates evidence/entity boundaries."
+    }
+  ]
+}

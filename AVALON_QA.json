@@ -1,0 +1,144 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-15",
+  "competitor_id": "avalon",
+  "owned_records": 6,
+  "paid_records": 4,
+  "format_counts": {
+    "video": 4
+  },
+  "unique_media_hashes": 4,
+  "checks": [
+    {
+      "name": "paid_record_count",
+      "status": "PASS",
+      "details": "expected 4, found 4"
+    },
+    {
+      "name": "library_id_unique",
+      "status": "PASS",
+      "details": [
+        "1060979163425826",
+        "4153426228207939",
+        "1048835627892194",
+        "1486812686546749"
+      ]
+    },
+    {
+      "name": "library_ids_reconciled",
+      "status": "PASS",
+      "details": {
+        "observed": [
+          "1048835627892194",
+          "1060979163425826",
+          "1486812686546749",
+          "4153426228207939"
+        ],
+        "accepted": [
+          "1048835627892194",
+          "1060979163425826",
+          "1486812686546749",
+          "4153426228207939"
+        ]
+      }
+    },
+    {
+      "name": "sample_boundary_explicit",
+      "status": "PASS",
+      "details": "Controlled four-record angle sample from active page-scoped Meta Ads Library results; not a census of approximately 1,300 UI results."
+    },
+    {
+      "name": "identity_reconciliation",
+      "status": "PASS",
+      "details": [
+        "Official Avalon website links to facebook.com/inc.avalon.",
+        "Facebook public page plugin resolves inc.avalon to canonical page ID 657137074419688.",
+        "Selected ads were observed in a page-scoped Meta Ads Library view for that page ID."
+      ]
+    },
+    {
+      "name": "paid_identity_media_hashes_types",
+      "status": "PASS",
+      "details": "validated"
+    },
+    {
+      "name": "owned_snapshot_count",
+      "status": "PASS",
+      "details": "expected 6, found 6"
+    },
+    {
+      "name": "owned_snapshot_hashes",
+      "status": "PASS",
+      "details": "6 HTML + 6 text artifacts validated"
+    },
+    {
+      "name": "owned_slugs_classified",
+      "status": "PASS",
+      "details": [
+        "avalon-holiday",
+        "avalon-magnolia",
+        "avalon-up",
+        "avalon-yard",
+        "homepage",
+        "projects"
+      ]
+    },
+    {
+      "name": "facebook_plugin_page_id",
+      "status": "PASS",
+      "details": {
+        "url": "https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Finc.avalon&tabs=timeline&width=500&height=700",
+        "path": "sources/snapshots/2026-10-15/avalon/facebook-plugin.html",
+        "sha256": "923aa3e21e9f11004ed833bfa8039faccdc91d1c31cae585b590a7699ea46c20",
+        "bytes": 55726
+      }
+    },
+    {
+      "name": "page_scoped_snapshot_ids",
+      "status": "PASS",
+      "details": [
+        "1060979163425826",
+        "4153426228207939",
+        "1048835627892194",
+        "1486812686546749"
+      ]
+    },
+    {
+      "name": "angle_classification",
+      "status": "PASS",
+      "details": "four distinct angle maps"
+    },
+    {
+      "name": "format_coverage",
+      "status": "PASS",
+      "details": {
+        "video": 4
+      }
+    },
+    {
+      "name": "unique_local_media",
+      "status": "PASS",
+      "details": "4 groups"
+    },
+    {
+      "name": "media_manifest_alignment",
+      "status": "PASS",
+      "details": "manifest IDs aligned"
+    },
+    {
+      "name": "source_to_report_rows",
+      "status": "PASS",
+      "details": "6 owned + 4 paid"
+    }
+  ],
+  "errors": [],
+  "artifacts": [
+    "creatives/competitor-avalon-delta-v1.json",
+    "reports/source-to-report-matrix-avalon-delta-v1.csv",
+    "sources/meta/2026-10-15/avalon-raw-paid-ads.json",
+    "sources/meta/2026-10-15/avalon-advertiser-reconciliation.json",
+    "sources/meta/2026-10-15/avalon-media-manifest.json",
+    "sources/snapshots/2026-10-15/avalon/owned-manifest.json",
+    "sources/snapshots/2026-10-15/avalon/meta/manifest.json"
+  ]
+}
