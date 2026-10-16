@@ -1,0 +1,133 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-16",
+  "checks": [
+    {
+      "name": "index_exists",
+      "status": "PASS",
+      "detail": "/root/.hermes/profiles/personal/creative-analysis/projects/grupa-smart/prototypes/creative-angles-v1/index.html"
+    },
+    {
+      "name": "record_counts",
+      "status": "PASS",
+      "detail": "(32, 7, 4)"
+    },
+    {
+      "name": "paid_asset_count",
+      "status": "PASS",
+      "detail": "39"
+    },
+    {
+      "name": "communication_asset_count",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "name": "index_hash",
+      "status": "PASS",
+      "detail": "b1c28a961a6e4a4e8f8099b4c35b89e0e851288ff5a86a0af33ef51b4eb0f90b"
+    },
+    {
+      "name": "media_integrity",
+      "status": "PASS",
+      "detail": "missing=0 mismatch=0 empty=0"
+    },
+    {
+      "name": "bundle_SOURCE_TO_REPORT_OWN.csv",
+      "status": "PASS",
+      "detail": "SOURCE_TO_REPORT_OWN.csv"
+    },
+    {
+      "name": "bundle_SOURCE_TO_REPORT_AVALON.csv",
+      "status": "PASS",
+      "detail": "SOURCE_TO_REPORT_AVALON.csv"
+    },
+    {
+      "name": "bundle_SOURCE_TO_REPORT_COMMUNICATIONS.csv",
+      "status": "PASS",
+      "detail": "SOURCE_TO_REPORT_COMMUNICATIONS.csv"
+    },
+    {
+      "name": "bundle_OWN_QA.json",
+      "status": "PASS",
+      "detail": "OWN_QA.json"
+    },
+    {
+      "name": "bundle_AVALON_QA.json",
+      "status": "PASS",
+      "detail": "AVALON_QA.json"
+    },
+    {
+      "name": "bundle_COMMUNICATIONS_QA.json",
+      "status": "PASS",
+      "detail": "COMMUNICATIONS_QA.json"
+    },
+    {
+      "name": "bundle_COMMUNICATION_BENCHMARKS.json",
+      "status": "PASS",
+      "detail": "COMMUNICATION_BENCHMARKS.json"
+    },
+    {
+      "name": "bundle_ANGLE_MAP.json",
+      "status": "PASS",
+      "detail": "ANGLE_MAP.json"
+    },
+    {
+      "name": "embedded_paid_records",
+      "status": "PASS",
+      "detail": "39"
+    },
+    {
+      "name": "embedded_communication_records",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "name": "communication_section",
+      "status": "PASS",
+      "detail": "required communication labels"
+    },
+    {
+      "name": "communication_links",
+      "status": "PASS",
+      "detail": "primary source URLs"
+    },
+    {
+      "name": "paid_count_isolation",
+      "status": "PASS",
+      "detail": "communication evidence excluded from paid totals"
+    },
+    {
+      "name": "own_sections",
+      "status": "PASS",
+      "detail": "required own UI labels"
+    },
+    {
+      "name": "angle_map",
+      "status": "PASS",
+      "detail": "required opportunity labels"
+    },
+    {
+      "name": "entity_boundaries",
+      "status": "PASS",
+      "detail": "variant boundary"
+    },
+    {
+      "name": "truth_boundary",
+      "status": "PASS",
+      "detail": "performance caveat"
+    },
+    {
+      "name": "media_full_frame_css",
+      "status": "PASS",
+      "detail": "paid and communication media full-frame without crop"
+    },
+    {
+      "name": "credential_scan",
+      "status": "PASS",
+      "detail": "{\"google_api_key\": 0, \"github_token\": 0, \"private_key\": 0, \"jwt\": 0}"
+    }
+  ],
+  "index_bytes": 203930,
+  "index_sha256": "b1c28a961a6e4a4e8f8099b4c35b89e0e851288ff5a86a0af33ef51b4eb0f90b"
+}

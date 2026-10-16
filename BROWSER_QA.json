@@ -1,0 +1,350 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-16T08:18:41.419Z",
+  "results": [
+    {
+      "profile": "desktop",
+      "status": "PASS",
+      "overview": {
+        "cards": 39,
+        "market": 9,
+        "pages": 6,
+        "communications": 4,
+        "overflow": 0,
+        "local": true
+      },
+      "media": {
+        "total": 39,
+        "decoded": 39,
+        "contain": 39,
+        "correctCanvas": 39,
+        "failures": []
+      },
+      "communications": {
+        "hash": "#communications",
+        "total": 4,
+        "decoded": 4,
+        "contain": 4,
+        "correctCanvas": 4,
+        "linked": 4,
+        "overflow": 0,
+        "rows": [
+          {
+            "id": "avalon-manifest-2024",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=7EZvgUWBj5U",
+              "https://www.and-action.net/uk/projects/avalon-manifest"
+            ],
+            "width": 685
+          },
+          {
+            "id": "dim-live-more-2021",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=mysyOcwP8qc",
+              "https://creativity.ua/video/zhyvy-bilshe-z-dim-tabasco-prezentuiut-manifest-brendu-ta-virusni-rolyky/"
+            ],
+            "width": 685
+          },
+          {
+            "id": "peoplefirst-2021",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=RK9wpfHuzTA",
+              "https://focus.ua/uk/ukraine/491183-ne-doma-a-lyudi-novopecherski-lipki-zapustili-kampaniyu-v-pidtrimku-novoji-filosofiji-developmentu-peoplefirst"
+            ],
+            "width": 685
+          },
+          {
+            "id": "kan-manifest-2018",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=E9JKOiaqn4c",
+              "https://vimeo.com/265563605"
+            ],
+            "width": 685
+          }
+        ]
+      },
+      "own": {
+        "hash": "#own",
+        "visible": 4,
+        "zigVisible": 4,
+        "broken": [],
+        "videos": [
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          }
+        ]
+      },
+      "modal": {
+        "open": true,
+        "clientHeight": 454,
+        "scrollHeight": 454
+      },
+      "href": "https://www.facebook.com/ads/library/?id=3416193908565007",
+      "map": {
+        "hash": "#map",
+        "shown": 6,
+        "shownSuburbia": 6,
+        "overflow": 0
+      },
+      "competitors": {
+        "visible": 8,
+        "result": "Показано: 8"
+      },
+      "jsErrors": [],
+      "failedResources": []
+    },
+    {
+      "profile": "mobile",
+      "status": "PASS",
+      "overview": {
+        "cards": 39,
+        "market": 9,
+        "pages": 6,
+        "communications": 4,
+        "overflow": 0,
+        "local": true
+      },
+      "media": {
+        "total": 39,
+        "decoded": 39,
+        "contain": 39,
+        "correctCanvas": 39,
+        "failures": []
+      },
+      "communications": {
+        "hash": "#communications",
+        "total": 4,
+        "decoded": 4,
+        "contain": 4,
+        "correctCanvas": 4,
+        "linked": 4,
+        "overflow": 0,
+        "rows": [
+          {
+            "id": "avalon-manifest-2024",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=7EZvgUWBj5U",
+              "https://www.and-action.net/uk/projects/avalon-manifest"
+            ],
+            "width": 362
+          },
+          {
+            "id": "dim-live-more-2021",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=mysyOcwP8qc",
+              "https://creativity.ua/video/zhyvy-bilshe-z-dim-tabasco-prezentuiut-manifest-brendu-ta-virusni-rolyky/"
+            ],
+            "width": 362
+          },
+          {
+            "id": "peoplefirst-2021",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=RK9wpfHuzTA",
+              "https://focus.ua/uk/ukraine/491183-ne-doma-a-lyudi-novopecherski-lipki-zapustili-kampaniyu-v-pidtrimku-novoji-filosofiji-developmentu-peoplefirst"
+            ],
+            "width": 362
+          },
+          {
+            "id": "kan-manifest-2018",
+            "decoded": true,
+            "objectFit": "contain",
+            "shellRatio": "4 / 5",
+            "links": [
+              "https://www.youtube.com/watch?v=E9JKOiaqn4c",
+              "https://vimeo.com/265563605"
+            ],
+            "width": 362
+          }
+        ]
+      },
+      "own": {
+        "hash": "#own",
+        "visible": 4,
+        "zigVisible": 4,
+        "broken": [],
+        "videos": [
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          },
+          {
+            "readyState": 4,
+            "error": null
+          }
+        ]
+      },
+      "modal": {
+        "open": true,
+        "clientHeight": 705,
+        "scrollHeight": 705
+      },
+      "href": "https://www.facebook.com/ads/library/?id=3416193908565007",
+      "map": {
+        "hash": "#map",
+        "shown": 6,
+        "shownSuburbia": 6,
+        "overflow": 0
+      },
+      "competitors": {
+        "visible": 8,
+        "result": "Показано: 8"
+      },
+      "jsErrors": [],
+      "failedResources": []
+    }
+  ]
+}

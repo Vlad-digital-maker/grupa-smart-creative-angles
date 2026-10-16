@@ -1,0 +1,69 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-16",
+  "dataset_sha256": "6c8ab9c90afa435fe03219647c1927bd76b8dd53d5555c88c1684a8ec96824a5",
+  "matrix_sha256": "962bf39f5cd76e9c5898fb9fb5378157922b7b4e3e000093170bdd470e8f5aae",
+  "oembed_sha256": "2b08237b15617ef4aedf253f7de857198c90715c5782adf39e2b5ae775057ddd",
+  "checks": [
+    {
+      "name": "project_scope",
+      "status": "PASS",
+      "detail": "grupa-smart"
+    },
+    {
+      "name": "record_count",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "name": "unique_ids",
+      "status": "PASS",
+      "detail": "['avalon-manifest-2024', 'dim-live-more-2021', 'peoplefirst-2021', 'kan-manifest-2018']"
+    },
+    {
+      "name": "required_fields",
+      "status": "PASS",
+      "detail": "{}"
+    },
+    {
+      "name": "owned_only",
+      "status": "PASS",
+      "detail": "owned communication references"
+    },
+    {
+      "name": "youtube_primary",
+      "status": "PASS",
+      "detail": "canonical watch URLs"
+    },
+    {
+      "name": "media_integrity",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "oembed_primary_coverage",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "source_matrix_count",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "name": "source_matrix_ids",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "no_unverified_performance_claims",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "exclusions_documented",
+      "status": "PASS",
+      "detail": "3"
+    }
+  ]
+}

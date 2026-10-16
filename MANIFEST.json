@@ -1,12 +1,15 @@
 {
   "project_id": "grupa-smart",
-  "artifact": "grupa_smart_creative_angles_v1",
+  "artifact": "grupa_smart_creative_angles_v2",
   "status": "production_candidate",
-  "observed_at": "2026-10-15",
+  "observed_at": "2026-10-16",
+  "paid_observed_at": "2026-10-15",
   "competitor_records": 32,
   "own_records": 7,
+  "communication_records": 4,
   "monitored_competitors": 9,
   "media_assets": 39,
+  "communication_media_assets": 4,
   "source_hashes": {
     "creatives/competitor-paid-pilot-v1.json": "9221bdfa1a37bb31f0e44920fd72cdc0dbcda7ada5de6153410305b53e00ffd3",
     "creatives/competitor-paid-riel-delta-v1.json": "9afc6acad2480142c45a53fa61d71d41b1c85e7acb20791b9db04a5b35ba15f0",
@@ -16,7 +19,8 @@
     "creatives/competitor-fine-city-delta-v1.json": "944f972959c7bed09f5d2e723149da77d32b32ef83612828e100099817677bb7",
     "creatives/competitor-avalon-delta-v1.json": "623a0374b7774af254c3de0c5682ada0ac2147f147ed8f16cb57168a132e2521",
     "creatives/grupa-smart-own-creatives-v1.json": "f82886c894e4efbe360f294a011b0f2d1b79c3fe4216f500755488b10c110c9d",
-    "reports/competitive-comparison-and-open-angles-v1.json": "78f0ebc4f39d10546c22f214438b66e1aabfe8d693a1ff321b74ca2aa49b7611"
+    "reports/competitive-comparison-and-open-angles-v1.json": "78f0ebc4f39d10546c22f214438b66e1aabfe8d693a1ff321b74ca2aa49b7611",
+    "reports/communication-benchmarks-v1.json": "6c8ab9c90afa435fe03219647c1927bd76b8dd53d5555c88c1684a8ec96824a5"
   },
   "media": [
     {
@@ -293,5 +297,35 @@
       "bytes": 1171583
     }
   ],
-  "index_sha256": "1cc7daa53a3448ef4f223c18056913a7fc52bc1f687aadaef30b5c3a9c506d79"
+  "communication_media": [
+    {
+      "reference_id": "avalon-manifest-2024",
+      "scope": "owned_communication_reference",
+      "path": "assets/communications/avalon-user-7EZvgUWBj5U.jpg",
+      "sha256": "5da8624300bfe8156841a0d48512a81c49aae7b5fd14ee491859309a3f008baf",
+      "bytes": 5556
+    },
+    {
+      "reference_id": "dim-live-more-2021",
+      "scope": "owned_communication_reference",
+      "path": "assets/communications/dim-mysyOcwP8qc.jpg",
+      "sha256": "61115acaa359356cf5517db9b651278c23bfc38f0e782113a20b324f6539fe6c",
+      "bytes": 7369
+    },
+    {
+      "reference_id": "peoplefirst-2021",
+      "scope": "owned_communication_reference",
+      "path": "assets/communications/peoplefirst-RK9wpfHuzTA.jpg",
+      "sha256": "d6a8efa7d565fabafe28b655e5811cfd02ba37a3b27c91a45fb29bcd3b2f2c6d",
+      "bytes": 9759
+    },
+    {
+      "reference_id": "kan-manifest-2018",
+      "scope": "owned_communication_reference",
+      "path": "assets/communications/kan-E9JKOiaqn4c.jpg",
+      "sha256": "bd692dcdc60f62b6f3797d96393743d5abde7b183004a8100d58ef09af1135a0",
+      "bytes": 43794
+    }
+  ],
+  "index_sha256": "b1c28a961a6e4a4e8f8099b4c35b89e0e851288ff5a86a0af33ef51b4eb0f90b"
 }
